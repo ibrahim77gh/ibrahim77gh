@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🤵 I`m a Software Engineer, a Web Developer, a Data Scientist, who loves to go to the gym :)
-- 🌱 I’m currently learning Data Science while sharpening my skills on Data Science.
+- 🌱 I’m currently learning Data Science while sharpening my skills on React and Django.
 - 💬 Ask me anything about the fields I`m interested in and I will be happy to help
 - 📫 How to reach me: syedibrahim4091@gmail.com || https://www.linkedin.com/in/syed-ibrahim-866259199/
 - ⚡ Fun fact about me: I also did Game Developement for a while but lost insterest now
