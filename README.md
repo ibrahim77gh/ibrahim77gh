@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br />
 
+### 🛠️ Some of my Projects
+
+[<img src="/images/H2O.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/water_project/)
+[<img src="/images/restaurant.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/restaurant-frontend)
