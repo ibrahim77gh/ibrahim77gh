@@ -35,16 +35,16 @@ Here are some ideas to get you started:
     <td align="center">
       <figure>
         <a href="https://ibrahim77gh.github.io/water_project/">
-          <img src="/images/H2O.png" alt="H2O">
-          <figcaption>H2OSource Website/figcaption>
+          <img width="300" src="/images/H2O.png" alt="H2O">
+          <figcaption>H2OSource Website </figcaption>
         </a>
       </figure>
     </td>
     <td align="center">
       <figure>
         <a href="https://ibrahim77gh.github.io/restaurant-frontend/">
-          <img src="/images/restaurant.png" alt="Restaurant">
-          <figcaption>Restaurant Website/figcaption>
+          <img width="300" src="/images/restaurant.png" alt="Restaurant">
+          <figcaption>Restaurant Website </figcaption>
         </a>
       </figure>
     </td>
