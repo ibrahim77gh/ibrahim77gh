@@ -32,3 +32,21 @@ Here are some ideas to get you started:
 
 [<img src="/images/H2O.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/water_project/)
 [<img src="/images/restaurant.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/restaurant-frontend)
+
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        [<img src="/images/H2O.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/water_project/)
+        <figcaption>Restaurant Website</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        [<img src="/images/restaurant.png" alt="Alt text" width="200">](https://ibrahim77gh.github.io/restaurant-frontend)
+        <figcaption>H2OSource Website/figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
