@@ -36,6 +36,7 @@ Here are some ideas to get you started:
       <figure>
         <a href="https://ibrahim77gh.github.io/water_project/">
           <img width="300" src="/images/H2O.png" alt="H2O">
+          <br />
           <figcaption>H2OSource Website </figcaption>
         </a>
       </figure>
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
       <figure>
         <a href="https://ibrahim77gh.github.io/restaurant-frontend/">
           <img width="300" src="/images/restaurant.png" alt="Restaurant">
+          <br />
           <figcaption>Restaurant Website </figcaption>
         </a>
       </figure>
