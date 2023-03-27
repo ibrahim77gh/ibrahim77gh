@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <figure>
-        <a href="https://ibrahim77gh.github.io/water_project/">
+        <a href="https://ibrahim77gh.github.io/water_project/" target="_blank">
           <img width="300" src="/images/H2O.png" alt="H2O">
           <br />
           <figcaption>H2OSource Website </figcaption>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <figure>
-        <a href="https://ibrahim77gh.github.io/restaurant-frontend/">
+        <a href="https://ibrahim77gh.github.io/restaurant-frontend/" target="_blank">
           <img width="300" src="/images/restaurant.png" alt="Restaurant">
           <br />
           <figcaption>Restaurant Website </figcaption>
