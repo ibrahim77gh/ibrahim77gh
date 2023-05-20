@@ -53,6 +53,15 @@ Here are some ideas to get you started:
         </a>
       </figure>
     </td>
+    <td align="center">
+      <figure>
+        <a href="https://ibrahim77gh.github.io/portfolio-client/" target="_blank">
+          <img width="300" src="/images/portfolio-client.png" alt="portfolio-client">
+          <br />
+          <figcaption>Portfolio </figcaption>
+        </a>
+      </figure>
+    </td>
   </tr>
 </table>
 
