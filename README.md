@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <td align="center">
       <figure>
         <a href="https://speedwork.vercel.app/" target="_blank">
-          <img width="300" src="/images/speedworks.png" alt="speedworks">
+          <img width="300" src="/images/sppedworks.png" alt="speedworks">
           <br />
           <figcaption>SpeedWorks</figcaption>
         </a>
