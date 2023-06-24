@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working as a Freelancer and satisfying clients through my expertise.
 - 📚 At the same time I am constantly learning as I try to further enhance my Web Development and Logic Building Skills while staying up to date with latest tech.
 - 💬 Ask me anything about the fields I`m interested in and I will be happy to help!
-- 📫 How to reach me: syedibrahim4091@gmail.com || https://www.linkedin.com/in/syed-ibrahim-866259199/
+- 📫 How to reach me: syedibrahim4091@gmail.com || https://www.linkedin.com/in/syed-ibrahim-noman-866259199/
 - ⚡ Fun fact about me: I also did Game Development for a while but have lost interest now.
 
 ---
