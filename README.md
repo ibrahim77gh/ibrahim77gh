@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <figure>
-        <a href="https://ibrahim77gh.github.io/restaurant-frontend/" target="_blank">
+        <a href="https://restaurant-frontend-zeta.vercel.app/" target="_blank">
           <img width="300" src="/images/restaurant.png" alt="Restaurant">
           <br />
           <figcaption>Restaurant Website </figcaption>
