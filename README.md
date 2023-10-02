@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <figure>
-        <a href="https://ibrahim77gh.github.io/water_project/" target="_blank">
-          <img width="300" src="/images/H2O.png" alt="H2O">
+        <a href="https://www.perfectsoapnote.com" target="_blank">
+          <img width="300" src="/images/soap.png" alt="soap">
           <br />
-          <figcaption>H2OSource Website </figcaption>
+          <figcaption>The Perfect Soap Note </figcaption>
         </a>
       </figure>
     </td>
