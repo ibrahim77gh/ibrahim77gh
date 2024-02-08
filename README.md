@@ -47,10 +47,10 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <figure>
-        <a href="https://restaurant-frontend-zeta.vercel.app/" target="_blank">
-          <img width="300" src="/images/restaurant.png" alt="Restaurant">
+        <a href="https://ipass.live/" target="_blank">
+          <img width="300" src="/images/ipass.png" alt="Ipass">
           <br />
-          <figcaption>Restaurant Website </figcaption>
+          <figcaption>Ipass </figcaption>
         </a>
       </figure>
     </td>
