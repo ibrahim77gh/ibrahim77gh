@@ -57,9 +57,9 @@ Here are some ideas to get you started:
     <td align="center">
       <figure>
         <a href="https://chattly.io/" target="_blank">
-          <img width="300" src="/images/sppedworks.png" alt="speedworks">
+          <img width="300" src="/images/Screenshot 2024-08-04 221412.png" alt="speedworks">
           <br />
-          <figcaption>Chattlys</figcaption>
+          <figcaption>Chattly</figcaption>
         </a>
       </figure>
     </td>
