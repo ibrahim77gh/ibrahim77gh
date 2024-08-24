@@ -56,10 +56,10 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <figure>
-        <a href="https://speedwork.vercel.app/" target="_blank">
+        <a href="https://chattly.io/" target="_blank">
           <img width="300" src="/images/sppedworks.png" alt="speedworks">
           <br />
-          <figcaption>SpeedWorks</figcaption>
+          <figcaption>Chattlys</figcaption>
         </a>
       </figure>
     </td>
