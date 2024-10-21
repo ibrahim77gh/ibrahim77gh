@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <figure>
-        <a href="https://www.perfectsoapnote.com" target="_blank">
+        <a href="https://soap-note-beta.vercel.app/" target="_blank">
           <img width="300" src="/images/soap.png" alt="soap">
           <br />
           <figcaption>The Perfect Soap Note </figcaption>
