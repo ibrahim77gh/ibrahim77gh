@@ -66,3 +66,16 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+---
+
+### 📊 GitHub Stats
+
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim77gh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim77gh&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ibrahim77gh&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
