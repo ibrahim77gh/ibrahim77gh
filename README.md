@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ![Ibrahim's GitHub Stats](https://github-readme-stats-eight-mocha-84.vercel.app/api?username=ibrahim77gh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-eight-mocha-84.vercel.app/api/top-langs/?username=ibrahim77gh&layout=compact&hide=c%23&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats-eight-mocha-84.vercel.app/api/top-langs/?username=ibrahim77gh&layout=compact&hide=c%23,jupyter%20notebook&langs_count=8&theme=radical)
 
 ---
 
