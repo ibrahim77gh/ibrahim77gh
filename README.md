@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim77gh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim77gh&layout=compact&hide=csharp&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim77gh&layout=compact&hide=csharp&theme=radical&cache_seconds=1800)
 
 ---
 
