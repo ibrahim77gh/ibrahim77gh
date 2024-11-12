@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <figure>
-        <a href="https://soap-note-beta.vercel.app/" target="_blank">
-          <img width="300" src="/images/soap.png" alt="soap">
+        <a href="https://resume.zentrumsolutions.com/" target="_blank">
+          <img width="300" src="/images/resume-zentrum.png" alt="resume">
           <br />
-          <figcaption>The Perfect Soap Note </figcaption>
+          <figcaption>AI Resume Builder </figcaption>
         </a>
       </figure>
     </td>
