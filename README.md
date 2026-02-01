@@ -56,10 +56,10 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <figure>
-        <a href="https://chattly.io/" target="_blank">
-          <img width="300" src="/images/Screenshot 2024-08-04 221412.png" alt="speedworks">
+        <a href="https://wondertailor.com/" target="_blank">
+          <img width="300" src="/images/wondertailor.png" alt="WonderTailor">
           <br />
-          <figcaption>Chattly</figcaption>
+          <figcaption>WonderTailor</figcaption>
         </a>
       </figure>
     </td>
